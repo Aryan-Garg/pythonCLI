@@ -9,6 +9,7 @@ The functions were written keeping in mind that other functions
 derive efficient use out of them instead of increasing redundancies.
 
 Hope you achieve increased productivity with this tool :)
+Also aryanGarg_python.zip contains the necessary starter files too.
 
 # Issues that might occur
 1) Is your python interpreter in the same path as in the source file?

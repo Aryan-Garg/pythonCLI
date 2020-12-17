@@ -1,17 +1,8 @@
 Todo list CLI using python - Created by Aryan Garg, 12/17/2020
 
-# Extra Features
-1) There's an extra feature in the program which can be invoked by 
-passing in the arguement: reportVerbose.
-
-reportVerbose -
-It lists all the documents along with the standard pending and 
-completed counter.
-
-2) -h flag also works the same way as passing help as an arguement.
-
-3) The initial Makefile is there to efficiently set-up the testing 
-environment and see all the test cases pass :)
+The Makefile is there to efficiently set-up the testing 
+environment.
+Just run make install initially.
 
 # General Note
 The functions were written keeping in mind that other functions 
